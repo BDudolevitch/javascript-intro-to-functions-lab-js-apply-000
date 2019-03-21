@@ -11,3 +11,7 @@ function sayHiToGrandma(string) {
 function shout(string) {
   console.log()
 }
+function sayHiToGrandma(string) {
+  return 'I can\'t hear you!' ===
+  
+}
