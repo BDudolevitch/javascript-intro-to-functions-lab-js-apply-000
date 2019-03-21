@@ -8,3 +8,6 @@ function whisper(string) {
 function sayHiToGrandma(string) {
   return
 }
+function shout(string) {
+  console.log()
+}
