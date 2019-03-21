@@ -5,7 +5,3 @@ function shout(string) {
 function whisper(string) {
   return string.toLowerCase()
 }
-function sayHiToGrandma(string) {
-  return 'YES INDEED' ===
-  string.toUpperCase
-}
