@@ -17,3 +17,7 @@ function sayHiToGrandma(string) {
     return 'YES INDEED!'
   }
 }
+
+function logShout(string) {
+  
+}
