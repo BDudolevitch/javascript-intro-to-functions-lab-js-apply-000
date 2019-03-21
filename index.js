@@ -7,5 +7,5 @@ function whisper(string) {
 }
 
 function sayHitToGrandma(string) {
-  return 
+  if (string === string)
 }
